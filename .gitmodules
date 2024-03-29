@@ -1,3 +1,6 @@
 [submodule "translate"]
 	path = translate
 	url = https://github.com/alejandroajinho/translate
+[submodule "database"]
+	path = database
+	url = https://github.com/alejandroajinho/database
